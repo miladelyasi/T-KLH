@@ -1,2 +1,2 @@
-# T-KLH
-Tabu-search-based matheuristic algorithm for combinatorial problems
+# HLBB
+Heuristic Logic-Based Benders algorithm for combinatorial problems
